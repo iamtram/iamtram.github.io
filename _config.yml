@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
+title: N N Tram
+email: andietramnguyen@gmail.com
+description: My blog
+url: https://iamtram.github.io/ # the base hostname & protocol for your site
 keywords: ["Programming", "PHP", "Ruby"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["Programming", "PHP", "Ruby"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Singapore
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,24 +33,24 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
+  name: N N T Tram
+  avatar: tram-pro.jpg
+  job: "HCI researcher, digital sensory simulation, multimodal interaction, data savvy, SPSS, R and Python user"
+  bio: "Food-science background, love new tech and interaction, interested in everything in life, currently based in Singapore, from Hanoi. Once spent 1 year in Shanghai and love it."
+  email: andietramnguyen@gmail.com
+  disqus-shortname: iamtramblog
+  twitter:  #username
   facebook: #username
   google:
     plus: #username
-    analytics: UA-62251910-2
+    analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
+  github: iamtram #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: renyuan-zou-69b7038a #username
+  linkedin: nntram23 #username
   xing: #username
   instagram: #username
   lastfm: #username
