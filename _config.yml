@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: N N Tram
+title: NN Tram
 email: andietramnguyen@gmail.com
 description: My blog
 url: https://iamtram.github.io/ # the base hostname & protocol for your site
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: N T N Tram
+  name: NN Tram
   avatar: tram-pro.jpg
   job: "HCI researcher, digital sensory simulation, multimodal interaction, data savvy, SPSS, R and Python user"
   bio: "Food-science background, love new tech and interaction, interested in everything in life, currently based in Singapore, from Hanoi. Once spent 1 year in Shanghai and love it."
