@@ -6,21 +6,37 @@ categories: [tutorial]
 comments: true
 ---
 PIS: https://goo.gl/forms/BJvw6BdwvrRPeqBf2
+
 111: https://goo.gl/forms/IrGiYiWmycMfi7kv2
+
 112: https://goo.gl/forms/2wXiWJRYFV6ey43s2
+
 113: https://goo.gl/forms/9FahPY5Z7f7et6Dh2
+
 114: https://goo.gl/forms/MEYVIzyLnXTMJXRr1
+
 115: https://goo.gl/forms/hAjBYy42Perm07Sy1
+
 116: https://goo.gl/forms/p0mkBch0GEIZfD3w2
+
 124: https://goo.gl/forms/5HJBwYGl8YzYj32s1
+
 125: https://goo.gl/forms/CXiVySM0iWe94e0V2
+
 126: https://goo.gl/forms/pOiKLci4HqIPc6Sw2
+
 134: https://goo.gl/forms/2EnOv4vw4VAaiBJu1
+
 135: https://goo.gl/forms/78KgB3ezFOhXSmS43
+
 136: https://goo.gl/forms/w7bYBju66i7x3UP93
+
 144: https://goo.gl/forms/uFVwGGoJ4BY9TGui1
+
 145: https://goo.gl/forms/UV8TQzCbqZBAWOr42
+
 146: https://goo.gl/forms/v58aMv6IegOptQ4m2
+
 FACT: https://goo.gl/forms/NsQEKEEnumVfE6tE2
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
