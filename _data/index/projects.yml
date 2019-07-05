@@ -1,4 +1,34 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
-  image: pong.png
-  github: https://github.com/renyuanz/leonids
+- name: Taste+
+  descr: "First of its kind to augment flavors. Using electricity to stimulate taste buds."
+  image: 
+  github: 
+
+- name: Virtual Cocktail
+  descr: "A digital flavor glass"
+  image: 
+  github: 
+
+- name: Tainted
+  descr: "A first-person-shooter game where you have to rely on the sense of smell to find clues and escape from a ghost."
+  image: 
+  github: 
+
+- name: Season Traveller
+  descr: "Multisensory mobile VR experience with smells, thermal, wind"
+  image: 
+  github: 
+
+- name: Windy Wall
+  descr: "A multi-panel platform to afford creative wind design"
+  image: 
+  github: 
+
+- name: Hacking Occupational Therapy Devices for Commynity Center Care
+  descr: "A low-cost hack to aid Occupational Therapists in monitoring patients' training."
+  image: 
+  github: 
+
+- name: VIHA
+  descr: "Evaluate anatomy learning efficiency from a virtual interactive human body."
+  image: 
+  github: 
