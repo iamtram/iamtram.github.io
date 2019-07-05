@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: NN Tram
-email: andietramnguyen@gmail.com
-description: My blog
-url: https://iamtram.github.io/ # the base hostname & protocol for your site
-keywords: ["Programming", "PHP", "Ruby"]
+title: Leonids
+email:
+description: A simple and awesome blog theme powered by jekyll.
+url: # the base hostname & protocol for your site
+keywords: ["blog", "jekyll"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Singapore
+timezone:          Europe/Paris
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,24 +33,26 @@ kramdown:
 ####################################
 #
 owner:
-  name: NN Tram
-  avatar: tram-pro.jpg
-  job: "HCI researcher, digital sensory simulation, multimodal interaction, data savvy, SPSS, R and Python user"
+  name: nn tram (jess)
+  avatar: logo-1.png
+  job: "HCI RESEARCHER, DIGITAL SENSORY SIMULATION, MULTIMODAL INTERACTION, DATA SAVVY, SPSS, R AND PYTHON USER"
   bio: "Food-science background, love new tech and interaction, interested in everything in life, currently based in Singapore, from Hanoi. Once spent 1 year in Shanghai and love it."
-  email: andietramnguyen@gmail.com
-  disqus-shortname: iamtramblog
-  twitter:  #username
+  email:
+  disqus-shortname:
+  twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics: UA-124579390-1
+    analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: iamtram #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: nntram23 #username
+  github: 
+  gitlab: 
+  stackoverflow: 
+  linkedin: #username
+  skype: #username
   xing: #username
   instagram: #username
   lastfm: #username
@@ -63,5 +65,7 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
+  500px: #username
   codepen: #username
+  reddit: #username
   telegram: #username
