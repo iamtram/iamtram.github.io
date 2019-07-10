@@ -1,0 +1,12 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Keio-NUS CUTE Center (Connected Ubiquitous Tangible Embedded Center)
+  link: http://cutecenter.nus.edu.sg
+  date: Dec 2015 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: HCI Researcher
+
+- name: Symrise
+  link: http://www.facebook.com/
+  date: Jan 2015 - May 2015
+  job: Sensory and Consumer Insights Assistant
+
