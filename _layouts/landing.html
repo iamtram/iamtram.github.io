@@ -24,8 +24,14 @@
                 </ul>
             </nav>
     
-            <div>Contact: </div> {% include social-links.html %}
+            <div>Contact: jess.nntram@gmail.com<script>gen_mail_to_link('{{ author.email }}', 'Hello from website');</script></div>
+                {% include social-links.html %}
         </div>
+      </div>
+  </div>
+  <div class="row">
+      <div class="table">
+            {% include card.html %}
       </div>
   </div>
   {% include js.html %}
