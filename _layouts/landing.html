@@ -29,11 +29,9 @@
         </div>
         </div>
     <div class="row table-cell table-middle">
-        <div class="post-list"> 
             {% for post in site.projects %}
-                {% include card.html %}
+                <div class="post-list"> {% include card.html %}</div>      
             {% endfor %}
-        </div>
         </div>
   </div>
   {% include js.html %}
