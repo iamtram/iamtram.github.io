@@ -28,9 +28,9 @@
                 {% include social-links.html %}
         </div>
         </div>
-    <div class="row table-cell table-middle">
+    <div class="row">
             {% for post in site.projects %}
-               {% include card.html %}  
+               <div class="col table-middle">{% include card.html %}</div>
             {% endfor %}
         </div>
   </div>
