@@ -8,7 +8,7 @@
       <div class="table cover">
         {% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
 
-        <div class="cover table-cell table-middle">
+        <div class="row table-cell table-middle">
             {% include sections/intro.html %}
             <a href="{{ site.url }}/" class="author_name_landing">{{ author.name }}</a>
             <nav class="nav">
@@ -24,15 +24,17 @@
                 </ul>
             </nav>
     
-            <div>Contact: jess.nntram@gmail.com<script>gen_mail_to_link('{{ author.email }}', 'Hello from website');</script></div>
+            <div>Contact: jess.nntram@gmail.com</div>
                 {% include social-links.html %}
         </div>
-      </div>
+        </div>
   </div>
   <div class="row">
-      <div class="table">
-            {% include card.html %}
-      </div>
+    <div class="row table-middle">
+            {% for post in site.posts %}
+                {% include card.html %}
+            {% endfor %}
+            </div>
   </div>
   {% include js.html %}
 </body>
