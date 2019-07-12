@@ -11,14 +11,21 @@
   <a href="{{ post.url | relative_url }}">
     {% if post.image.feature %}
       <figure class="post-card__thumb">
-        <img
-          src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_placehold.jpg"
-          data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg, {{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb@2x.jpg 2x"
-          class="lazyload blur"
-          alt="{{post.title}}"
-        />
-        <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}"></noscript>
+        <img src=
+        {% if post.image.feature contains 'http' %}
+        "{{ post.image.feature }}"
+        {% else %}
+        "{{ site.url }}/img/{{ post.image.feature }}"
+        {% endif %}
+        alt="{{ post.title | escape }} feature image">
       </figure>
+      {% if post.image.feature %}
+      <div class="post-image-feature">
+        {% if post.image.credit %}
+        <span class="image-credit">Photo Credit: <a href="{{ post.image.creditlink }}">{{ post.image.credit }}</a></span>
+        {% endif %}
+      </div><!-- /.image-wrap -->
+      {% endif %}
     {% else %}
       <figure class="post-card__thumb">
         <div class="dark-bg"></div>
