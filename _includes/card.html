@@ -1,4 +1,4 @@
-<div class="post-card" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">
+<div class="post-card">
   {% if post.categories %}
     {% assign categories = post.categories %}
     <span class="post-card__label">
@@ -9,7 +9,7 @@
     </span>
   {% endif %}
   <a href="{{ post.url | relative_url }}">
-    {% if post.featured-img %}
+    {% if post.img.feature %}
       <figure class="post-card__thumb">
         <img
           src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_placehold.jpg"
