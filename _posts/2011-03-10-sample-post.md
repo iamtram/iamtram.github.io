@@ -5,7 +5,7 @@ excerpt: "Just about everything you'll need to style in the theme: headings, par
 categories: [hello world]
 comments: true
 image:
-  feature: https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjTrpnvsK7jAhWMK48KHVsdDqEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.thecanvasartfactory.com.au%2Fproduct%2Fcentre-of-milky-way-galaxy-square%2F&psig=AOvVaw3wylpOkXCGjzYkO5DlO_ns&ust=1562986567305727
+  feature: https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250
   credit: thomas shellberg
   creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
 ---
