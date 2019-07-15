@@ -2,7 +2,7 @@
 layout: post
 title: Windy Wall
 excerpt: "WindyWall"
-categories: [hello world]
+categories: [haptic]
 comments: true
 image:
   feature: https://www.icloud.com/iclouddrive/0cET2P-vqE8mkyxsjmWKnCGww#HMD_upward
