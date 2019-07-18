@@ -5,10 +5,10 @@
 
 <body>
   <div class="row">
-    <div class="row table-top cover">
+    <div class="row">
         {% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
 
-        <div class="row table-middle">
+        <div class="table-middle">
             {% include sections/intro.html %}
             <nav class="nav">
                 <ul class="nav-list">
