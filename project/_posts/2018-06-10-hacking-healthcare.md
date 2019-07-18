@@ -2,7 +2,8 @@
 layout: post
 title: "Hacking occupational therapy tools"
 excerpt: "Helping OTs at work by low-cost hacking of existing devices to monitor clients."
-categories: [smart, healthcare, project, elderly]
+categories: [selected]
+tags: [smart, healthcare, elderly]
 comments: true
 image:
   feature:

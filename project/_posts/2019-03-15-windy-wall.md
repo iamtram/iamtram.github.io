@@ -1,18 +1,19 @@
 ---
 layout: post
 title: Windy Wall
-excerpt: "WindyWall"
-categories: [project, haptic]
+excerpt: "WindyWall is a creative platform for dynamic wind simulation."
+categories: [selected]
+tags: [wind, simulation, haptic, VR]
 comments: true
 image:
-  feature: https://www.icloud.com/iclouddrive/0cET2P-vqE8mkyxsjmWKnCGww#HMD_upward
+  feature: https://drive.google.com/open?id=1e90xADQvGvqIREQcJ09qrbm771SZyej5
   credit: 
   creditlink: 
 ---
 
 ## HTML Elements
 
-WindyWall is a creative platform for dynamic wind simulation
+WindyWall is a creative platform for dynamic wind simulation.
 
 # Heading 1
 Paper: TEI 2019
