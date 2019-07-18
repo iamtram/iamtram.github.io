@@ -4,7 +4,7 @@
 {% include head.html %}
 
 <body>
-  <div class="row">
+  <div class="row section">
     <div class="row table cover">
         {% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
 
@@ -30,7 +30,7 @@
         </div>
   </div>
 
-  <div class="row">
+  <div class="blog">
         <div class="container">
             <div class="post-list">
                 {% for post in site.projects %}
