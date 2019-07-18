@@ -5,12 +5,11 @@
 
 <body>
   <div class="row">
-    <div class="row table cover">
+    <div class="row table-top cover">
         {% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
 
-        <div class="row table-cell table-middle">
+        <div class="row table-middle">
             {% include sections/intro.html %}
-            <a href="{{ site.url }}/" class="author_name_landing">{{ author.name }}</a>
             <nav class="nav">
                 <ul class="nav-list">
                 <li class="nav-item">
@@ -30,7 +29,7 @@
         </div>
 
   <div class="section row blog">
-        <p padding=1em> Selected works</p>
+        <h1 class=table-middle> Selected works</h1>
         <div class="container">
             <div class="post-list">
                 {% for post in site.categories.selected %}
