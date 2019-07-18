@@ -2,7 +2,7 @@
 layout: post
 title:  "Bali finally"
 date:   2019-05-15 15:07:19
-categories: [travel, summer]
+categories: [travel, summer, blog]
 comments: true
 image:
   feature: 
