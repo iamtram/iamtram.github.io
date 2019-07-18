@@ -6,7 +6,7 @@ categories: [selected]
 tags: [wind, simulation, haptic, VR]
 comments: true
 image:
-  feature: https://drive.google.com/open?id=1e90xADQvGvqIREQcJ09qrbm771SZyej5
+  feature: https://drive.google.com/open?id=1DWenrBQtz1sMwHgFWJ7nzODSLofzbNJk
   credit: 
   creditlink: 
 ---
