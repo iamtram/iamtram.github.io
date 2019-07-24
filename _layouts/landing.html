@@ -6,9 +6,10 @@
 <body>
   <div class="row">
     <div class="row">
+        <div class="table cover">
         {% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
 
-        <div class="table-middle">
+        <div class="cover-card table-cell table-middle">
             {% include sections/intro.html %}
             <nav class="nav">
                 <ul class="nav-list">
@@ -25,13 +26,14 @@
     
             <div>Contact: jess.nntram@gmail.com</div>
                 {% include social-links.html %}
+            </div>
         </div>
-        </div>
+    </div>
 
-  <div class="section row blog">
+  <div class="row">
         <h1 class=table-middle> Selected works</h1>
         <div class="container">
-            <div class="post-list">
+            <div class="post-listing">
                 {% for post in site.categories.selected %}
                     {% include card.html %}
                 {% endfor %}
