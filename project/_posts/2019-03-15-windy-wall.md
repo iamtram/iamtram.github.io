@@ -11,91 +11,23 @@ image:
   creditlink: 
 ---
 
-## HTML Elements
+## Dynamic Wind Simulation in Multimodal Interaction
 
 WindyWall is a creative platform for dynamic wind simulation.
 
-# Heading 1
+### Motivation
+Haptic feelings are important in Immersive experiences. However, haptic experiences have been narrowly confined to vibrational feeling of handheld devices. Ambience factors such as thermal and wind need to be conveyed, yet we do not have a good understanding of how human perceive these factors objectively. Hence, we created a platform to simulate wind and conduct studies to understand human perception of it.
+
+### Platform
+We created 3 panel of 5x6 modular fans to cover a wide angle of 120 degree surrounding a player. The fans can be controlled singularly or together, synchronised by different timing patterns. The idea is to simulate different wind conditions and patterns that are not feasible with other platforms. The player can feel a gush of wind, a bus rushing by, a sudden blow of wind, or gentle rolling breeze.
+
+### Study
+We conducted
+## Publication
 Paper: TEI 2019
 
-## Heading 2
-In this project, I worked together with 
 
-### Heading 3
+![User and 3-panel WindyWall](img/assets/HMD-upward-lrx2.jpg)
 
-#### Heading 4
+Paper: TEI 2019
 
-##### Heading 5
-
-###### Heading 6
-
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![User and 3-panel WindyWall](/assets/HMD-upward-lrx2.jpg)
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header 1 | Header 2 | Header 3 |
-|:--------|:-------:|--------:|
-| cell 1   | cell 2   | cell 3   |
-| cell 4   | cell 5   | cell 6   |
-|----
-| cell 1   | cell 2   | cell 3   |
-| cell 4   | cell 5   | cell 6   |
-|=====
-| Foot 1   | Foot 2   | Foot 3   |
-
-## Code Snippets
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}

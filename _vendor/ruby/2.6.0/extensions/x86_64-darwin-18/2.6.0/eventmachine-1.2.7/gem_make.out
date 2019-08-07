@@ -1,0 +1,16 @@
+current directory: /Users/nus/Documents/website/iamtram.github.io/_vendor/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/opt/ruby/bin/ruby -I /usr/local/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190807-2576-1pdrrla.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nus/Documents/website/iamtram.github.io/_vendor/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/nus/Documents/website/iamtram.github.io/_vendor/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/nus/Documents/website/iamtram.github.io/_vendor/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20190807-2576-1oek78g
