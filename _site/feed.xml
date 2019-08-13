@@ -5,8 +5,8 @@
     <description>Jess Tram Nguyen</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>2019-08-06</pubDate>
-    <lastBuildDate>Tue, 06 Aug 2019 22:10:19 -0800</lastBuildDate>
+    <pubDate>2019-08-12</pubDate>
+    <lastBuildDate>Mon, 12 Aug 2019 19:44:26 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -24,7 +24,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>2019-08-06</pubDate>
+        <pubDate>2019-08-12</pubDate>
         <link>http://localhost:4000/articles/2019-05/bali-impression</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2019-05/bali-impression</guid>
         
@@ -63,7 +63,7 @@
 &lt;p&gt;Paper: TEI 2019&lt;/p&gt;
 
 </description>
-        <pubDate>2019-08-06</pubDate>
+        <pubDate>2019-08-12</pubDate>
         <link>http://localhost:4000/articles/2019-03/windy-wall</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2019-03/windy-wall</guid>
         
@@ -84,24 +84,11 @@
     
       <item>
         <title>Hacking occupational therapy tools</title>
-        <description>&lt;p&gt;This is a sample post with a large feature image&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; up top and tons of text. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
+        <description>&lt;h2 id=&quot;cupidatat-90s-lo-fi-authentic-try-hard&quot;&gt;Cupidatat 90’s lo-fi authentic try-hard&lt;/h2&gt;
 
-&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
+&lt;p&gt;Modifying occupational therapy exercises so the devices can be tracked to monitor activities.&lt;/p&gt;
 
-&lt;h2 id=&quot;cupidatat-90s-lo-fi-authentic-try-hard&quot;&gt;Cupidatat 90’s lo-fi authentic try-hard&lt;/h2&gt;
-
-&lt;p&gt;In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90’s.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sartorial hoodie&lt;/li&gt;
-  &lt;li&gt;Labore viral forage&lt;/li&gt;
-  &lt;li&gt;Tote bag selvage&lt;/li&gt;
-  &lt;li&gt;DIY exercitation et id ugh tumblr church-key&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.&lt;/p&gt;
-
-&lt;p&gt;Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven’t heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney’s Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.&lt;/p&gt;
+&lt;p&gt;Interviews with in-house occupational therapists and observations to understand their normal workflow. Created User Journey from insights gathered and design the UX of the platform accordingly.&lt;/p&gt;
 
 &lt;h2 id=&quot;forage-occaecat-cardigan-qui&quot;&gt;Forage occaecat cardigan qui&lt;/h2&gt;
 
@@ -125,15 +112,8 @@
 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Texture image courtesty of &lt;a href=&quot;http://www.lovetextures.com/&quot;&gt;Lovetextures&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
 </description>
-        <pubDate>2019-08-06</pubDate>
+        <pubDate>2019-08-12</pubDate>
         <link>http://localhost:4000/articles/2018-06/hacking-healthcare</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2018-06/hacking-healthcare</guid>
         
@@ -201,7 +181,7 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>2019-08-06</pubDate>
+        <pubDate>2019-08-12</pubDate>
         <link>http://localhost:4000/articles/2018-03/vocktail</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2018-03/vocktail</guid>
         
@@ -241,7 +221,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>2019-08-06</pubDate>
+        <pubDate>2019-08-12</pubDate>
         <link>http://localhost:4000/articles/2015-08/welcome-to-jekyll</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2015-08/welcome-to-jekyll</guid>
         
@@ -352,7 +332,7 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>2019-08-06</pubDate>
+        <pubDate>2019-08-12</pubDate>
         <link>http://localhost:4000/articles/2013-08/code-highlighting-post</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2013-08/code-highlighting-post</guid>
         
@@ -373,7 +353,7 @@
 
 &lt;p&gt;Some &lt;a href=&quot;google.com&quot;&gt;link&lt;/a&gt; can also be shown.&lt;/p&gt;
 </description>
-        <pubDate>2019-08-06</pubDate>
+        <pubDate>2019-08-12</pubDate>
         <link>http://localhost:4000/articles/2013-08/sample-link-post</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2013-08/sample-link-post</guid>
         
@@ -435,7 +415,7 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>2019-08-06</pubDate>
+        <pubDate>2019-08-12</pubDate>
         <link>http://localhost:4000/articles/2013-05/readability-feature-post</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2013-05/readability-feature-post</guid>
         
@@ -491,7 +471,7 @@
 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 </description>
-        <pubDate>2019-08-06</pubDate>
+        <pubDate>2019-08-12</pubDate>
         <link>http://localhost:4000/articles/2012-05/readability-post</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2012-05/readability-post</guid>
         
@@ -626,7 +606,7 @@
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;{: .notice}&lt;/code&gt; to a paragraph.&lt;/p&gt;
 </description>
-        <pubDate>2019-08-06</pubDate>
+        <pubDate>2019-08-12</pubDate>
         <link>http://localhost:4000/articles/2011-03/sample-post</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2011-03/sample-post</guid>
         

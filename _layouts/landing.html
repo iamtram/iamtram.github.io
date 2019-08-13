@@ -3,12 +3,25 @@
 
 {% include head.html %}
 
+<style>
+    .grid-container {
+      display: grid;
+      background-color: white;
+      grid-gap: 2em;
+    }
+    
+    .grid-item {
+      text-align: center;
+      padding: 1em;
+    }
+    </style>
+
 <body>
-  <div class="container">
-    <div class="cover-card row table-middle">
+  <div class="grid-container">
+    <div class="grid-item">
         <div class="table-cell table-middle">
         {% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
-
+        
         <div class="table-cell table-middle">
             {% include sections/intro.html %}
             <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a>
@@ -31,7 +44,7 @@
         </div>
     </div>
 
-  <div class="section">
+  <div class="grid-item">
         <h1 class="table-middle cover-card"> Selected works</h1>
         <div class="container">
             <div class="post-list">
